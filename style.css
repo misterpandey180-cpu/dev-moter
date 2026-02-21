@@ -13,7 +13,6 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   height: 300px;
-  color: white;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -21,7 +20,7 @@ header {
 }
 
 header a {
-  color: white;
+  color: #111;
   text-decoration: none;
 }
 
@@ -59,4 +58,5 @@ footer {
   padding: 20px;
   background: #222;
   color: white;
+
 }
